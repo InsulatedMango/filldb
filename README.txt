@@ -10,6 +10,6 @@ The goal of this project was to learn python in the realm of data analytics and 
 
 This project is still not up to my personal quality standards but it has come a long way in the week I have spent on it. I took one python course a number of weeks back. After that I spent one day on this project. I got a few lines of code but ended up shelving the project for about three weeks. I came back and within a few days had written a mostly usable program that did most of what I wanted it to do. From there I spent a few more days cleaning it up and making it less janky. 
 
-the original program was entirely within a single while loop. I converted each function into an actual coded in function, made another function to take out reduntant and repetitive lines of code, and fixed up a few odds and ends. 
+The original program was entirely within a single while loop. I converted each function into an actual coded in function, made another function to take out reduntant and repetitive lines of code, and fixed up a few odds and ends. 
 
 I have a lot more planned for this project. Stay tuned.
