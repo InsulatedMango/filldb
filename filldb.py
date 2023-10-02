@@ -10,10 +10,6 @@
 
 import sqlite3
 
-###################################
-#START price script
-###################################
-
 def usr_inp(prompt):
    inp = None
    inp = input(prompt)
@@ -23,6 +19,10 @@ def usr_inp(prompt):
    elif inp == '!R':
        return "!R"
    return inp if len(inp) > 0 else None
+
+###################################
+#START price script
+###################################
 
 def price():
     while True:
